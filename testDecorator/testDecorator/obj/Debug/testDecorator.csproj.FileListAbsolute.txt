@@ -4,3 +4,10 @@ c:\users\muxammad\source\repos\testDecorator\testDecorator\bin\Debug\testDecorat
 c:\users\muxammad\source\repos\testDecorator\testDecorator\obj\Debug\testDecorator.csproj.CoreCompileInputs.cache
 c:\users\muxammad\source\repos\testDecorator\testDecorator\obj\Debug\testDecorator.exe
 c:\users\muxammad\source\repos\testDecorator\testDecorator\obj\Debug\testDecorator.pdb
+C:\Users\au512366\Documents\GitHub\softawareDesign3\testDecorator\testDecorator\bin\Debug\testDecorator.exe.config
+C:\Users\au512366\Documents\GitHub\softawareDesign3\testDecorator\testDecorator\bin\Debug\testDecorator.exe
+C:\Users\au512366\Documents\GitHub\softawareDesign3\testDecorator\testDecorator\bin\Debug\testDecorator.pdb
+C:\Users\au512366\Documents\GitHub\softawareDesign3\testDecorator\testDecorator\obj\Debug\testDecorator.csprojResolveAssemblyReference.cache
+C:\Users\au512366\Documents\GitHub\softawareDesign3\testDecorator\testDecorator\obj\Debug\testDecorator.csproj.CoreCompileInputs.cache
+C:\Users\au512366\Documents\GitHub\softawareDesign3\testDecorator\testDecorator\obj\Debug\testDecorator.exe
+C:\Users\au512366\Documents\GitHub\softawareDesign3\testDecorator\testDecorator\obj\Debug\testDecorator.pdb

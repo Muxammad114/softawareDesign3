@@ -42,9 +42,16 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Class1.cs" />
+    <Compile Include="BasePizza.cs" />
+    <Compile Include="Toppings\Anchovies.cs" />
+    <Compile Include="Toppings\Cheese.cs" />
+    <Compile Include="Toppings\Ham.cs" />
+    <Compile Include="Toppings\Pineapple.cs" />
+    <Compile Include="Pizza.cs" />
+    <Compile Include="PizzaTopping.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Toppings\TomatoSauce.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
