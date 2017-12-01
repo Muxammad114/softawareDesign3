@@ -14,7 +14,7 @@ namespace testDecorator
             Pizza pizza = new PizzaTopping(new TomatoSauce(new Anchovies(new BasePizza(Sizes.huge,Doughs.plainRey))));
 
             pizza.display();
-            Console.WriteLine(pizza.cost() + " " + pizza.tasteIndex());
+            Console.WriteLine("Price of pizza: " + pizza.cost() + " DKK \nTaste index: " + pizza.tasteIndex());
         }
     };
 }
