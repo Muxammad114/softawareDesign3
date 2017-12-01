@@ -1,0 +1,6 @@
+c:\users\muxammad\source\repos\testDecorator\testDecorator\bin\Debug\testDecorator.exe.config
+c:\users\muxammad\source\repos\testDecorator\testDecorator\bin\Debug\testDecorator.exe
+c:\users\muxammad\source\repos\testDecorator\testDecorator\bin\Debug\testDecorator.pdb
+c:\users\muxammad\source\repos\testDecorator\testDecorator\obj\Debug\testDecorator.csproj.CoreCompileInputs.cache
+c:\users\muxammad\source\repos\testDecorator\testDecorator\obj\Debug\testDecorator.exe
+c:\users\muxammad\source\repos\testDecorator\testDecorator\obj\Debug\testDecorator.pdb
