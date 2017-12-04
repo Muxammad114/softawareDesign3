@@ -7,14 +7,15 @@ using System.Threading.Tasks;
 
 namespace testDecorator
 {
-    public enum Sizes
+    //Different pizza sizes, the higher the number the higher the price
+   public enum Sizes
     {
         small,
         medium,
         large,
         huge
     }
-
+    //Different avaliable Doughs, influence tasteIndex
     public enum Doughs
     {
         plainWheat,
@@ -25,6 +26,7 @@ namespace testDecorator
 
     public class BasePizza : Pizza
     {
+        // A BasePizza is a Size and Dough
         public Sizes Size { get; }
         public Doughs Dough { get; }
 
@@ -35,18 +37,21 @@ namespace testDecorator
             Dough = dough;
         }
 
+        //This describes what a BasePizza writes when called
         public override void display()
         {
             Console.WriteLine($"Pizza size: {Size.ToString()} \nPizza dough: {Dough.ToString()}");
         }
 
+        //Calculating th cost of the coosen base pizza
         public override double cost()
         {
-            return ((int) Size + 1)*20;
+            return ((int) Size + 1)*20; //Converting the enum to an int and saying that sizes increase in cost in 20 DKK increments
         }
 
         public override double tasteIndex()
         {
+            //Different abritrary tast indexes for different doughs
             switch (Dough)
             {
                 case Doughs.cabbage:

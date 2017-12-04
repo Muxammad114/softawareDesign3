@@ -11,9 +11,12 @@ namespace testDecorator
     {
         static void Main(string[] args)
         {
-            Pizza pizza = new PizzaTopping(new TomatoSauce(new Anchovies(new BasePizza(Sizes.huge,Doughs.plainRey))));
+            //A pizza consisting of TomatoSauce, anchovies and a BasePizza
+            Pizza pizza = new TomatoSauce(new Anchovies(new BasePizza(Sizes.huge,Doughs.plainRey)));
 
+            //Calls all display functions in; Anchovies, TomatoSauce and BasePizza
             pizza.display();
+            //Here 2 other fuctions are called cost and tasteIndex, which call in the same way as display
             Console.WriteLine("Price of pizza: " + pizza.cost() + " DKK \nTaste index: " + pizza.tasteIndex());
         }
     };

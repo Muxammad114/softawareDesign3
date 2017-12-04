@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace testDecorator
 {
+    //An abstract class that everything, that PizzaTopping and BasePizza implement.
     public abstract class Pizza
     {
         public abstract void display();
