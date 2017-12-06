@@ -11,9 +11,7 @@ namespace testDecorator
     {
         static void Main(string[] args)
         {
-           
             //A pizza consisting of TomatoSauce, anchovies and a BasePizza
-            // Pizza pizza = new TomatoSauce(new Anchovies(new BasePizza(Sizes.huge,Doughs.plainRey)));
             Pizza pizza = new TomatoSauce(new Anchovies( new BasePizza(Sizes.huge, Doughs.plainRye)));
             //Calls all display functions in; Anchovies, TomatoSauce and BasePizza
             pizza.Display();
