@@ -19,21 +19,21 @@ namespace testDecorator
         }
 
         //Calling display on its child pizza object
-        public override void display()
+        public override void Display()
         {
-            pizza.display();
+            pizza.Display();
         }
 
         //Calling cost on its child pizza object and returning the result
-        public override double cost()
+        public override double Cost()
         {
-            return pizza.cost();
+            return pizza.Cost();
         }
 
         //Calling tasteIndex on its child pizza object and returning the result
-        public override double tasteIndex()
+        public override double TasteIndex()
         {
-            return pizza.tasteIndex();
+            return pizza.TasteIndex();
         }
     }
 }

@@ -15,22 +15,22 @@ namespace testDecorator
         }
 
         //Call the base cost function and add its own price, returning that
-        public override double cost()
+        public override double Cost()
         {
-            return base.cost() + 2;
+            return base.Cost() + 2;
         }
 
         //Calling the base display function, and displaying its own text
-        public override void display()
+        public override void Display()
         {
-            base.display();
+            base.Display();
             Console.WriteLine("With Tomato sauce");
         }
 
         //Calling the base tasteIndex function and adding its own value, returning this after.
-        public override double tasteIndex()
+        public override double TasteIndex()
         {
-            return base.tasteIndex() + 5;
+            return base.TasteIndex() + 5;
         }
     }
 }

@@ -11,3 +11,10 @@ C:\Users\au512366\Documents\GitHub\softawareDesign3\testDecorator\testDecorator\
 C:\Users\au512366\Documents\GitHub\softawareDesign3\testDecorator\testDecorator\obj\Debug\testDecorator.csproj.CoreCompileInputs.cache
 C:\Users\au512366\Documents\GitHub\softawareDesign3\testDecorator\testDecorator\obj\Debug\testDecorator.exe
 C:\Users\au512366\Documents\GitHub\softawareDesign3\testDecorator\testDecorator\obj\Debug\testDecorator.pdb
+C:\Users\Rasmus\Google Drev\Skole\Uni\SWD\Exercises\softawareDesign3\testDecorator\testDecorator\bin\Debug\testDecorator.exe.config
+C:\Users\Rasmus\Google Drev\Skole\Uni\SWD\Exercises\softawareDesign3\testDecorator\testDecorator\bin\Debug\testDecorator.exe
+C:\Users\Rasmus\Google Drev\Skole\Uni\SWD\Exercises\softawareDesign3\testDecorator\testDecorator\bin\Debug\testDecorator.pdb
+C:\Users\Rasmus\Google Drev\Skole\Uni\SWD\Exercises\softawareDesign3\testDecorator\testDecorator\obj\Debug\testDecorator.csprojResolveAssemblyReference.cache
+C:\Users\Rasmus\Google Drev\Skole\Uni\SWD\Exercises\softawareDesign3\testDecorator\testDecorator\obj\Debug\testDecorator.csproj.CoreCompileInputs.cache
+C:\Users\Rasmus\Google Drev\Skole\Uni\SWD\Exercises\softawareDesign3\testDecorator\testDecorator\obj\Debug\testDecorator.exe
+C:\Users\Rasmus\Google Drev\Skole\Uni\SWD\Exercises\softawareDesign3\testDecorator\testDecorator\obj\Debug\testDecorator.pdb

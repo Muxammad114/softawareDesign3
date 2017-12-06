@@ -20,7 +20,7 @@ namespace testDecorator
     {
         plainWheat,
         wholeWheat,
-        plainRey,
+        plainRye,
         cabbage,
     }
 
@@ -38,18 +38,18 @@ namespace testDecorator
         }
 
         //This describes what a BasePizza writes when called
-        public override void display()
+        public override void Display()
         {
             Console.WriteLine($"Pizza size: {Size.ToString()} \nPizza dough: {Dough.ToString()}");
         }
 
         //Calculating th cost of the coosen base pizza
-        public override double cost()
+        public override double Cost()
         {
             return ((int) Size + 1)*20; //Converting the enum to an int and saying that sizes increase in cost in 20 DKK increments
         }
 
-        public override double tasteIndex()
+        public override double TasteIndex()
         {
             //Different abritrary tast indexes for different doughs
             switch (Dough)
@@ -57,7 +57,7 @@ namespace testDecorator
                 case Doughs.cabbage:
                     return -100;
 
-                case Doughs.plainRey:
+                case Doughs.plainRye:
                     return -50;
 
                 case Doughs.plainWheat:
